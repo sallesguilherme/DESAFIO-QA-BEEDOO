@@ -67,8 +67,8 @@ Critérios de aceite
 
 ## Link Casos de teste
 Aqui você encontrará os casos de testes executados.  
-[Casos de teste](https://docs.google.com/spreadsheets/d/132V5P35TTPNSUAnV9NKuBaIJAxW6CtME4SEliKIpfIs/edit?gid=0#gid=0)
+[Casos de teste](https://docs.google.com/spreadsheets/d/1C6WctQCY5jUOLxOx7GpR84PSLG5EnNCQ/edit?usp=drive_link&ouid=114076122423645119680&rtpof=true&sd=true)
 
 ## Link Evidencias de teste
 Aqui você encontrará as evidencias do caso de teste.  
-[Evidencias](https://drive.google.com/drive/folders/1309tkYTQTmgwqC6e0mkZI48FO_FhuF7Q?usp=drive_link)
+[Evidencias](https://drive.google.com/drive/folders/1309tkYTQTmgwqC6e0mkZI48FO_FhuF7Q?usp=sharing)
